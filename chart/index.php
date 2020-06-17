@@ -84,7 +84,7 @@ var theme = {
 // tui.chart.registerTheme('myTheme', theme);
 // options.theme = 'myTheme';
 
-tui.chart.barChart(container, data, options);//liat tutorial bapak untuk melihat menganti pada menit 26
+tui.chart.columnChart(container, data, options);//liat tutorial bapak untuk melihat menganti pada menit 26
 </script>
 
 <!--For tutorial page-->
